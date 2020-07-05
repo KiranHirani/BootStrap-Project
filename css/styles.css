@@ -37,7 +37,7 @@ font-weight:bold;
     letter-spacing:2px;
     font-size:20px;
     word-spacing:2px;
-    color: grey;
+    color: white;
 }
 /* Making the font bold */
 .for1
@@ -104,7 +104,7 @@ font-weight:bold;
   }
 
   .card {
-      margin: 10px;
+      margin: 5px;
   }
 
   @media (min-width: 600px) {
@@ -114,7 +114,16 @@ font-weight:bold;
   }
   .card1
   {
-    width:350px;
+    width:300px;
   }
+  .services
+{
+    font-family: 'Amatic SC', cursive;
+    letter-spacing:2px;
+    font-size:20px;
+    word-spacing:2px;
+    color: black;
+    margin:10px;
+}
 
 
